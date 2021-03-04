@@ -11,7 +11,7 @@
                 <ContentTemplate>
                     <div>
                         <div class="page-header">
-                            <h3>TRANSAKSI</h3>
+                            <h3>Report</h3>
                         </div>
                         <div>
                             <tr>

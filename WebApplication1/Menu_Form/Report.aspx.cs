@@ -57,7 +57,7 @@ namespace WebApplication1.Menu_Form
                         }
                     }
 
-            xlWorkBook.SaveAs("D:\\PT. Wahana Datarindo Solution\\Project\\WebApplication1\\Report_Barang.xls", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
+            xlWorkBook.SaveAs("D:\\Project\\WebApplication1\\Report_Barang.xls", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
             xlWorkBook.Close(true, misValue, misValue);
             xlApp.Quit();
 
@@ -69,7 +69,7 @@ namespace WebApplication1.Menu_Form
                     
                     con.Close();
                     lblMessage.Visible = true;
-                    lblMessage.Text = "Excel file created , you can find the file D:\\PT. Wahana Datarindo Solution\\Project\\WebApplication1\\Report_Barang.xls";
+                    lblMessage.Text = "Excel file created , you can find the file D:\\Project\\WebApplication1\\Report_Barang.xls";
                 }
             }
             catch (Exception ex)
@@ -113,7 +113,7 @@ namespace WebApplication1.Menu_Form
                         }
                     }
 
-                    xlWorkBook.SaveAs("D:\\PT. Wahana Datarindo Solution\\Project\\WebApplication1\\Report_Perusahaan.xls", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
+                    xlWorkBook.SaveAs("D:\\Project\\WebApplication1\\Report_Perusahaan.xls", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
                     xlWorkBook.Close(true, misValue, misValue);
                     xlApp.Quit();
 
@@ -125,7 +125,7 @@ namespace WebApplication1.Menu_Form
 
                     con.Close();
                     lblMessage.Visible = true;
-                    lblMessage.Text = "Excel file created , you can find the file D:\\PT. Wahana Datarindo Solution\\Project\\WebApplication1\\Report_Perusahaan.xls";
+                    lblMessage.Text = "Excel file created , you can find the file D:\\Project\\WebApplication1\\Report_Perusahaan.xls";
                 }
             }
             catch (Exception ex)
@@ -169,7 +169,7 @@ namespace WebApplication1.Menu_Form
                         }
                     }
 
-                    xlWorkBook.SaveAs("D:\\PT. Wahana Datarindo Solution\\Project\\WebApplication1\\Report_Transaksi.xls", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
+                    xlWorkBook.SaveAs("D:\\Project\\WebApplication1\\Report_Transaksi.xls", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
                     xlWorkBook.Close(true, misValue, misValue);
                     xlApp.Quit();
 
@@ -181,7 +181,7 @@ namespace WebApplication1.Menu_Form
 
                     con.Close();
                     lblMessage.Visible = true;
-                    lblMessage.Text = "Excel file created , you can find the file D:\\PT. Wahana Datarindo Solution\\Project\\WebApplication1\\Report_Transaksi.xls";
+                    lblMessage.Text = "Excel file created , you can find the file D:\\Project\\WebApplication1\\Report_Transaksi.xls";
                 }
             }
             catch (Exception ex)

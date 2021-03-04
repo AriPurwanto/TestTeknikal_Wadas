@@ -38,3 +38,4 @@ D:\PT. Wahana Datarindo Solution\Project\WebApplication1\WebApplication1\bin\Mic
 D:\PT. Wahana Datarindo Solution\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.ResolveComReference.cache
 D:\PT. Wahana Datarindo Solution\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\PT. Wahana Datarindo Solution\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\PT. Wahana Datarindo Solution\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
