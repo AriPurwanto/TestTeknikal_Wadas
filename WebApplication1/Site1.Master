@@ -21,6 +21,7 @@
             <div class="navbar-header">
                 <h3 class="panel-title"><strong>Main Menu</strong></h3>
             </div>
+            &nbsp
             <div class="navbar-right">
                 <asp:LinkButton ID="LinkLogout" style="font-family:Arial; font-size:16px; color:black; position:absolute; top: 15px" 
                     runat="server" ForeColor="Black" OnClick="lbLogout_Click">Logout</asp:LinkButton>
